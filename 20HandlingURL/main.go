@@ -39,7 +39,6 @@ func main() {
 		Host:     "pkg.dev",
 		Path:     "learn",
 		RawQuery: "user=kasi",
-		
 	}
 
 	urlString := newURL.String()
